@@ -1,0 +1,13 @@
+li a {
+    color: white;
+    text-decoration: none;
+}
+body {
+    color: white;
+    background-color: rgb(42, 42, 42);
+}
+
+.title {
+    background-color: white;
+    color: black;
+}
